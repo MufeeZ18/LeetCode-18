@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
+| [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

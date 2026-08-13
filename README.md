@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/MufeeZ18/LeetCode-18/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 | [1143-longest-common-subsequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

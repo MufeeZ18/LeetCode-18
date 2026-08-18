@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/MufeeZ18/LeetCode-18/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
@@ -115,10 +117,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MufeeZ18/LeetCode-18/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/1143-longest-common-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

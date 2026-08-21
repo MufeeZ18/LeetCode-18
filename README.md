@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MufeeZ18/LeetCode-18/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/1143-longest-common-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MufeeZ18/LeetCode-18/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0796-rotate-string) |

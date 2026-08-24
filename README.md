@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/MufeeZ18/LeetCode-18/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MufeeZ18/LeetCode-18/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MufeeZ18/LeetCode-18/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

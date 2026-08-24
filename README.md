@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/MufeeZ18/LeetCode-18/tree/master/0070-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 ## Game Theory
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -165,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->

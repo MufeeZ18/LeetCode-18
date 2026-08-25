@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MufeeZ18/LeetCode-18/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |

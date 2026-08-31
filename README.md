@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/1143-longest-common-subsequence) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MufeeZ18/LeetCode-18/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Longest Common Subsequence
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MufeeZ18/LeetCode-18/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MufeeZ18/LeetCode-18/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->

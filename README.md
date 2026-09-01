@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MufeeZ18/LeetCode-18/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/MufeeZ18/LeetCode-18/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MufeeZ18/LeetCode-18/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |

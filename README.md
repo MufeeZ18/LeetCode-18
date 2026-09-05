@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
+| [0876-middle-of-the-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

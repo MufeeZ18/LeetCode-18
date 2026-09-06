@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
@@ -199,10 +201,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

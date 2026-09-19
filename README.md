@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MufeeZ18/LeetCode-18/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MufeeZ18/LeetCode-18/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/MufeeZ18/LeetCode-18/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 ## Quicksort
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |

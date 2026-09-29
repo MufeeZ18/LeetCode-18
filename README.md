@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MufeeZ18/LeetCode-18/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Quicksort
 |  |
 | ------- |

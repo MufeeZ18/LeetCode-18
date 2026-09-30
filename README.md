@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MufeeZ18/LeetCode-18/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/MufeeZ18/LeetCode-18/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MufeeZ18/LeetCode-18/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/MufeeZ18/LeetCode-18/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Quicksort
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MufeeZ18/LeetCode-18/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MufeeZ18/LeetCode-18/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/MufeeZ18/LeetCode-18/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MufeeZ18/LeetCode-18/tree/master/1248-count-number-of-nice-subarrays) |

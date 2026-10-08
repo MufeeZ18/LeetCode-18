@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/MufeeZ18/LeetCode-18/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MufeeZ18/LeetCode-18/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/MufeeZ18/LeetCode-18/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/MufeeZ18/LeetCode-18/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MufeeZ18/LeetCode-18/tree/master/0205-isomorphic-strings) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/MufeeZ18/LeetCode-18/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

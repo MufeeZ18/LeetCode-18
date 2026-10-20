@@ -2,8 +2,7 @@ class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
-        // Step 1: Transpose the matrix
-        // Convert rows into columns by swapping across the diagonal
+        // Transpose: swap each cell above the diagonal with its mirror.
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 int temp = matrix[i][j];
@@ -12,8 +11,7 @@ class Solution {
             }
         }
 
-        // Step 2: Reverse each row
-        // This completes the 90-degree clockwise rotation
+        // Reverse each row to complete the clockwise rotation.
         for (int i = 0; i < n; i++) {
             int left = 0;
             int right = n - 1;
@@ -22,7 +20,6 @@ class Solution {
                 int temp = matrix[i][left];
                 matrix[i][left] = matrix[i][right];
                 matrix[i][right] = temp;
-
                 left++;
                 right--;
             }

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/MufeeZ18/LeetCode-18/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/MufeeZ18/LeetCode-18/tree/master/0289-game-of-life) |
 ## Sorting
 |  |
 | ------- |
@@ -272,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/MufeeZ18/LeetCode-18/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/MufeeZ18/LeetCode-18/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->

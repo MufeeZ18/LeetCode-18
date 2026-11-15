@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MufeeZ18/LeetCode-18/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/MufeeZ18/LeetCode-18/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MufeeZ18/LeetCode-18/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MufeeZ18/LeetCode-18/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/MufeeZ18/LeetCode-18/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0119-pascals-triangle-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MufeeZ18/LeetCode-18/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MufeeZ18/LeetCode-18/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MufeeZ18/LeetCode-18/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MufeeZ18/LeetCode-18/tree/master/0289-game-of-life) |

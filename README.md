@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MufeeZ18/LeetCode-18/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MufeeZ18/LeetCode-18/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/MufeeZ18/LeetCode-18/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MufeeZ18/LeetCode-18/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/MufeeZ18/LeetCode-18/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Quicksort
 |  |
@@ -296,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MufeeZ18/LeetCode-18/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

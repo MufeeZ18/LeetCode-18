@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/MufeeZ18/LeetCode-18/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/MufeeZ18/LeetCode-18/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MufeeZ18/LeetCode-18/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MufeeZ18/LeetCode-18/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MufeeZ18/LeetCode-18/tree/master/0875-koko-eating-bananas) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MufeeZ18/LeetCode-18/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MufeeZ18/LeetCode-18/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/MufeeZ18/LeetCode-18/tree/master/0502-ipo) |
 | [1903-largest-odd-number-in-string](https://github.com/MufeeZ18/LeetCode-18/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MufeeZ18/LeetCode-18/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MufeeZ18/LeetCode-18/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MufeeZ18/LeetCode-18/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/MufeeZ18/LeetCode-18/tree/master/0502-ipo) |
 ## Quicksort
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MufeeZ18/LeetCode-18/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/MufeeZ18/LeetCode-18/tree/master/0502-ipo) |
 ## Data Stream
 |  |
 | ------- |
